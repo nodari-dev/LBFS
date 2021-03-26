@@ -1,0 +1,9 @@
+{
+    "watchFolder": "src",   
+    "outputFolder": "dist",
+    "mainFile": "style.less",   
+    "minified": true,
+    "sourceMap": false,
+    "runOnce": false,
+    "enableJs": true
+}
