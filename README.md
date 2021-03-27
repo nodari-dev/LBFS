@@ -1,5 +1,5 @@
 # LBFS
- basic file stucture for less with config.json
+ Less basic file structure for your web projects. 
 
 ## To start using type:
 ```
